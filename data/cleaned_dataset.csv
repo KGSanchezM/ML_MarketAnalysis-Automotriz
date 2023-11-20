@@ -1,0 +1,206 @@
+car_id,marca,modelo,fuel_type,aspiration,door_number,car_body,drive_wheel,engine_location,wheel_base,car_length,car_width,car_height,curb_weight,engine_type,cylinder_number,engine_size,fuel_system,bore_ratio,stroke,compression_ratio,horse_power,peak_rpm,city_mpg,highway_mpg,price,clasificacion_precio,calificacion_riesgo
+1,alfa romeo,giulia,gas,std,2,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,4,130,mpfi,3.47,2.68,9.0,111,5000,21,27,13495,0,Extremadamente Riesgoso
+2,alfa romeo,stelvio,gas,std,2,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,4,130,mpfi,3.47,2.68,9.0,111,5000,21,27,16500,0,Extremadamente Riesgoso
+3,alfa romeo,quadrifoglio,gas,std,2,hatchback,rwd,front,94.5,171.2,65.5,52.4,2823,ohcv,6,152,mpfi,2.68,3.47,9.0,154,5000,19,26,16500,0,Riesgoso
+4,audi,a6,gas,std,4,sedan,fwd,front,99.8,176.6,66.2,54.3,2337,ohc,4,109,mpfi,3.19,3.4,10.0,102,5500,24,30,13950,0,Muy Riesgoso
+5,audi,a6,gas,std,4,sedan,4wd,front,99.4,176.6,66.4,54.3,2824,ohc,5,136,mpfi,3.19,3.4,8.0,115,5500,18,22,17450,0,Muy Riesgoso
+6,audi,80,gas,std,2,sedan,fwd,front,99.8,177.3,66.3,53.1,2507,ohc,5,136,mpfi,3.19,3.4,8.5,110,5500,19,25,15250,0,Muy Riesgoso
+7,audi,a6,gas,std,4,sedan,fwd,front,105.8,192.7,71.4,55.7,2844,ohc,5,136,mpfi,3.19,3.4,8.5,110,5500,19,25,17710,0,Riesgoso
+8,audi,5000,gas,std,4,wagon,fwd,front,105.8,192.7,71.4,55.7,2954,ohc,5,136,mpfi,3.19,3.4,8.5,110,5500,19,25,18920,0,Riesgoso
+9,audi,4000,gas,turbo,4,sedan,fwd,front,105.8,192.7,71.4,55.9,3086,ohc,5,131,mpfi,3.13,3.4,8.3,140,5500,17,20,23875,0,Riesgoso
+10,audi,5000s (diesel),gas,turbo,2,hatchback,4wd,front,99.5,178.2,67.9,52.0,3053,ohc,5,131,mpfi,3.13,3.4,7.0,160,5500,16,22,17859,0,Neutral
+11,bmw,320i,gas,std,2,sedan,rwd,front,101.2,176.8,64.8,54.3,2395,ohc,4,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16430,0,Muy Riesgoso
+12,bmw,320i,gas,std,4,sedan,rwd,front,101.2,176.8,64.8,54.3,2395,ohc,4,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16925,0,Neutral
+13,bmw,x1,gas,std,2,sedan,rwd,front,101.2,176.8,64.8,54.3,2710,ohc,6,164,mpfi,3.31,3.19,9.0,121,4250,21,28,20970,0,Neutral
+14,bmw,x3,gas,std,4,sedan,rwd,front,101.2,176.8,64.8,54.3,2765,ohc,6,164,mpfi,3.31,3.19,9.0,121,4250,21,28,21105,0,Neutral
+15,bmw,z4,gas,std,4,sedan,rwd,front,103.5,189.0,66.9,55.7,3055,ohc,6,164,mpfi,3.31,3.19,9.0,121,4250,20,25,24565,0,Riesgoso
+16,bmw,x4,gas,std,4,sedan,rwd,front,103.5,189.0,66.9,55.7,3230,ohc,6,209,mpfi,3.62,3.39,8.0,182,5400,16,22,30760,0,Neutral
+17,bmw,x5,gas,std,2,sedan,rwd,front,103.5,193.8,67.9,53.7,3380,ohc,6,209,mpfi,3.62,3.39,8.0,182,5400,16,22,41315,0,Neutral
+18,bmw,x3,gas,std,4,sedan,rwd,front,110.0,197.0,70.9,56.3,3505,ohc,6,209,mpfi,3.62,3.39,8.0,182,5400,15,20,36880,0,Neutral
+19,chevrolet,impala,gas,std,2,hatchback,fwd,front,88.4,141.1,60.3,53.2,1488,l,3,61,2bbl,2.91,3.03,9.5,48,5100,47,53,5151,1,Muy Riesgoso
+20,chevrolet,monte carlo,gas,std,2,hatchback,fwd,front,94.5,155.9,63.6,52.0,1874,ohc,4,90,2bbl,3.03,3.11,9.6,70,5400,38,43,6295,1,Riesgoso
+21,chevrolet,vega 2300,gas,std,4,sedan,fwd,front,94.5,158.8,63.6,52.0,1909,ohc,4,90,2bbl,3.03,3.11,9.6,70,5400,38,43,6575,1,Neutral
+22,dodge,rampage,gas,std,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,1876,ohc,4,90,2bbl,2.97,3.23,9.41,68,5500,37,41,5572,1,Riesgoso
+23,dodge,challenger se,gas,std,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,1876,ohc,4,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6377,1,Riesgoso
+24,dodge,d200,gas,turbo,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,2128,ohc,4,98,mpfi,3.03,3.39,7.6,102,5500,24,30,7957,1,Riesgoso
+25,dodge,monaco (sw),gas,std,4,hatchback,fwd,front,93.7,157.3,63.8,50.6,1967,ohc,4,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6229,1,Riesgoso
+26,dodge,colt,gas,std,4,sedan,fwd,front,93.7,157.3,63.8,50.6,1989,ohc,4,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6692,1,Riesgoso
+27,dodge,colt,gas,std,4,sedan,fwd,front,93.7,157.3,63.8,50.6,1989,ohc,4,90,2bbl,2.97,3.23,9.4,68,5500,31,38,7609,1,Riesgoso
+28,dodge,coronet,gas,turbo,2,sedan,fwd,front,93.7,157.3,63.8,50.6,2191,ohc,4,98,mpfi,3.03,3.39,7.6,102,5500,24,30,8558,1,Riesgoso
+29,dodge,dart custom,gas,std,4,wagon,fwd,front,103.3,174.6,64.6,59.8,2535,ohc,4,122,2bbl,3.34,3.46,8.5,88,5000,24,30,8921,1,Poco Seguro
+30,dodge,coronet,gas,turbo,2,hatchback,fwd,front,95.9,173.2,66.3,50.2,2811,ohc,4,156,mfi,3.6,3.9,7.0,145,5000,19,24,12964,0,Extremadamente Riesgoso
+31,honda,civic,gas,std,2,hatchback,fwd,front,86.6,144.6,63.9,50.8,1713,ohc,4,92,1bbl,2.91,3.41,9.6,58,4800,49,54,6479,1,Muy Riesgoso
+32,honda,civic,gas,std,2,hatchback,fwd,front,86.6,144.6,63.9,50.8,1819,ohc,4,92,1bbl,2.91,3.41,9.2,76,6000,31,38,6855,1,Muy Riesgoso
+33,honda,civic,gas,std,2,hatchback,fwd,front,93.7,150.0,64.0,52.6,1837,ohc,4,79,1bbl,2.91,3.07,10.1,60,5500,38,42,5399,1,Riesgoso
+34,honda,accord,gas,std,2,hatchback,fwd,front,93.7,150.0,64.0,52.6,1940,ohc,4,92,1bbl,2.91,3.41,9.2,76,6000,30,34,6529,1,Riesgoso
+35,honda,civic,gas,std,2,hatchback,fwd,front,93.7,150.0,64.0,52.6,1956,ohc,4,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7129,1,Riesgoso
+36,honda,accord,gas,std,4,sedan,fwd,front,96.5,163.4,64.0,54.5,2010,ohc,4,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7295,1,Neutral
+37,honda,civic,gas,std,4,wagon,fwd,front,96.5,157.1,63.9,58.3,2024,ohc,4,92,1bbl,2.92,3.41,9.2,76,6000,30,34,7295,1,Neutral
+38,honda,accord,gas,std,2,hatchback,fwd,front,96.5,167.5,65.2,53.3,2236,ohc,4,110,1bbl,3.15,3.58,9.0,86,5800,27,33,7895,1,Neutral
+39,honda,civic,gas,std,2,hatchback,fwd,front,96.5,167.5,65.2,53.3,2289,ohc,4,110,1bbl,3.15,3.58,9.0,86,5800,27,33,9095,1,Neutral
+40,honda,prelude,gas,std,4,sedan,fwd,front,96.5,175.4,65.2,54.1,2304,ohc,4,110,1bbl,3.15,3.58,9.0,86,5800,27,33,8845,1,Neutral
+41,honda,accord,gas,std,4,sedan,fwd,front,96.5,175.4,62.5,54.1,2372,ohc,4,110,1bbl,3.15,3.58,9.0,86,5800,27,33,10295,1,Neutral
+42,honda,civic,gas,std,4,sedan,fwd,front,96.5,175.4,65.2,54.1,2465,ohc,4,110,mpfi,3.15,3.58,9.0,101,5800,24,28,12945,0,Neutral
+43,honda,civic,gas,std,2,sedan,fwd,front,96.5,169.1,66.0,51.0,2293,ohc,4,110,2bbl,3.15,3.58,9.1,100,5500,25,31,10345,0,Riesgoso
+44,isuzu,mu-x,gas,std,4,sedan,rwd,front,94.3,170.7,61.8,53.5,2337,ohc,4,111,2bbl,3.31,3.23,8.5,78,4800,24,29,6785,1,Neutral
+45,isuzu,d-max,gas,std,2,sedan,fwd,front,94.5,155.9,63.6,52.0,1874,ohc,4,90,2bbl,3.03,3.11,9.6,70,5400,38,43,8916,1,Riesgoso
+46,isuzu,d-max,gas,std,4,sedan,fwd,front,94.5,155.9,63.6,52.0,1909,ohc,4,90,2bbl,3.03,3.11,9.6,70,5400,38,43,8916,1,Neutral
+47,isuzu,d-max,gas,std,2,hatchback,rwd,front,96.0,172.6,65.2,51.4,2734,ohc,4,119,spfi,3.43,3.23,9.2,90,5000,24,29,11048,0,Muy Riesgoso
+48,jaguar,xj,gas,std,4,sedan,rwd,front,113.0,199.6,69.6,52.8,4066,dohc,6,258,mpfi,3.63,4.17,8.1,176,4750,15,19,32250,0,Neutral
+49,jaguar,xf,gas,std,4,sedan,rwd,front,113.0,199.6,69.6,52.8,4066,dohc,6,258,mpfi,3.63,4.17,8.1,176,4750,15,19,35550,0,Neutral
+50,jaguar,xk,gas,std,2,sedan,rwd,front,102.0,191.7,70.6,47.8,3950,ohcv,20,326,mpfi,3.54,2.76,11.5,262,5000,13,17,36000,0,Neutral
+51,mazda,rx3,gas,std,2,hatchback,fwd,front,93.1,159.1,64.2,54.1,1890,ohc,4,91,2bbl,3.03,3.15,9.0,68,5000,30,31,5195,1,Riesgoso
+52,mazda,glc,gas,std,2,hatchback,fwd,front,93.1,159.1,64.2,54.1,1900,ohc,4,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6095,1,Riesgoso
+53,mazda,rx2 coupe,gas,std,2,hatchback,fwd,front,93.1,159.1,64.2,54.1,1905,ohc,4,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6795,1,Riesgoso
+54,mazda,rx-4,gas,std,4,sedan,fwd,front,93.1,166.8,64.2,54.1,1945,ohc,4,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6695,1,Riesgoso
+55,mazda,glc,gas,std,4,sedan,fwd,front,93.1,166.8,64.2,54.1,1950,ohc,4,91,2bbl,3.08,3.15,9.0,68,5000,31,38,7395,1,Riesgoso
+56,mazda,626,gas,std,2,hatchback,rwd,front,95.3,169.0,65.7,49.6,2380,rotor,2,70,4bbl,3.33,3.255,9.4,101,6000,17,23,10945,0,Extremadamente Riesgoso
+57,mazda,glc,gas,std,2,hatchback,rwd,front,95.3,169.0,65.7,49.6,2380,rotor,2,70,4bbl,3.33,3.255,9.4,101,6000,17,23,11845,0,Extremadamente Riesgoso
+58,mazda,rx-7 gs,gas,std,2,hatchback,rwd,front,95.3,169.0,65.7,49.6,2385,rotor,2,70,4bbl,3.33,3.255,9.4,101,6000,17,23,13645,0,Extremadamente Riesgoso
+59,mazda,glc,gas,std,2,hatchback,rwd,front,95.3,169.0,65.7,49.6,2500,rotor,2,80,mpfi,3.33,3.255,9.4,135,6000,16,23,15645,0,Extremadamente Riesgoso
+60,mazda,626,gas,std,2,hatchback,fwd,front,98.8,177.8,66.5,53.7,2385,ohc,4,122,2bbl,3.39,3.39,8.6,84,4800,26,32,8845,1,Riesgoso
+61,mazda,glc,gas,std,4,sedan,fwd,front,98.8,177.8,66.5,55.5,2410,ohc,4,122,2bbl,3.39,3.39,8.6,84,4800,26,32,8495,1,Neutral
+62,mazda,glc,gas,std,2,hatchback,fwd,front,98.8,177.8,66.5,53.7,2385,ohc,4,122,2bbl,3.39,3.39,8.6,84,4800,26,32,10595,0,Riesgoso
+63,mazda,rx-4,gas,std,4,sedan,fwd,front,98.8,177.8,66.5,55.5,2410,ohc,4,122,2bbl,3.39,3.39,8.6,84,4800,26,32,10245,1,Neutral
+64,mazda,glc,diesel,std,4,sedan,fwd,front,98.8,177.8,66.5,55.5,2443,ohc,4,122,idi,3.39,3.39,22.7,64,4650,36,42,10795,0,Neutral
+65,mazda,626,gas,std,4,hatchback,fwd,front,98.8,177.8,66.5,55.5,2425,ohc,4,122,2bbl,3.39,3.39,8.6,84,4800,26,32,11245,0,Neutral
+66,mazda,glc,gas,std,4,sedan,rwd,front,104.9,175.0,66.1,54.4,2670,ohc,4,140,mpfi,3.76,3.16,8.0,120,5000,19,27,18280,0,Neutral
+67,mazda,rx-7 gs,diesel,std,4,sedan,rwd,front,104.9,175.0,66.1,54.4,2700,ohc,4,134,idi,3.43,3.64,22.0,72,4200,31,39,18344,0,Neutral
+68,buick,electra 225 custom,diesel,turbo,4,sedan,rwd,front,110.0,190.9,70.3,56.5,3515,ohc,5,183,idi,3.58,3.64,21.5,123,4350,22,25,25552,0,Poco Seguro
+69,buick,century,diesel,turbo,4,wagon,rwd,front,110.0,190.9,70.3,58.7,3750,ohc,5,183,idi,3.58,3.64,21.5,123,4350,22,25,28248,0,Poco Seguro
+70,buick,century,diesel,turbo,2,hardtop,rwd,front,106.7,187.5,70.3,54.9,3495,ohc,5,183,idi,3.58,3.64,21.5,123,4350,22,25,28176,0,Neutral
+71,buick,skyhawk,diesel,turbo,4,sedan,rwd,front,115.6,202.6,71.7,56.3,3770,ohc,5,183,idi,3.58,3.64,21.5,123,4350,22,25,31600,0,Poco Seguro
+72,buick,opel isuzu deluxe,gas,std,4,sedan,rwd,front,115.6,202.6,71.7,56.5,3740,ohcv,8,234,mpfi,3.46,3.1,8.3,155,4750,16,18,34184,0,Poco Seguro
+73,buick,skylark,gas,std,2,convertible,rwd,front,96.6,180.3,70.5,50.8,3685,ohcv,8,234,mpfi,3.46,3.1,8.3,155,4750,16,18,35056,0,Extremadamente Riesgoso
+74,buick,century,gas,std,4,sedan,rwd,front,120.9,208.1,71.7,56.7,3900,ohcv,8,308,mpfi,3.8,3.35,8.0,184,4500,14,16,40960,0,Neutral
+75,buick,regal sport coupe (turbo),gas,std,2,hardtop,rwd,front,112.0,199.2,72.0,55.4,3715,ohcv,8,304,mpfi,3.8,3.35,8.0,184,4500,14,16,45400,0,Riesgoso
+76,mercury,cougar,gas,turbo,2,hatchback,rwd,front,102.7,178.4,68.0,54.8,2910,ohc,4,140,mpfi,3.78,3.12,8.0,175,5000,19,24,16503,0,Riesgoso
+77,mitsubishi,mirage,gas,std,2,hatchback,fwd,front,93.7,157.3,64.4,50.8,1918,ohc,4,92,2bbl,2.97,3.23,9.4,68,5500,37,41,5389,1,Muy Riesgoso
+78,mitsubishi,lancer,gas,std,2,hatchback,fwd,front,93.7,157.3,64.4,50.8,1944,ohc,4,92,2bbl,2.97,3.23,9.4,68,5500,31,38,6189,1,Muy Riesgoso
+79,mitsubishi,outlander,gas,std,2,hatchback,fwd,front,93.7,157.3,64.4,50.8,2004,ohc,4,92,2bbl,2.97,3.23,9.4,68,5500,31,38,6669,1,Muy Riesgoso
+80,mitsubishi,g4,gas,turbo,2,hatchback,fwd,front,93.0,157.3,63.8,50.8,2145,ohc,4,98,spdi,3.03,3.39,7.6,102,5500,24,30,7689,1,Riesgoso
+81,mitsubishi,mirage,gas,turbo,2,hatchback,fwd,front,96.3,173.0,65.4,49.4,2370,ohc,4,110,spdi,3.17,3.46,7.5,116,5500,23,30,9959,1,Extremadamente Riesgoso
+82,mitsubishi,g4,gas,std,2,hatchback,fwd,front,96.3,173.0,65.4,49.4,2328,ohc,4,122,2bbl,3.35,3.46,8.5,88,5000,25,32,8499,1,Extremadamente Riesgoso
+83,mitsubishi,outlander,gas,turbo,2,hatchback,fwd,front,95.9,173.2,66.3,50.2,2833,ohc,4,156,spdi,3.58,3.86,7.0,145,5000,19,24,12629,0,Extremadamente Riesgoso
+84,mitsubishi,g4,gas,turbo,2,hatchback,fwd,front,95.9,173.2,66.3,50.2,2921,ohc,4,156,spdi,3.59,3.86,7.0,145,5000,19,24,14869,0,Extremadamente Riesgoso
+85,mitsubishi,mirage,gas,turbo,2,hatchback,fwd,front,95.9,173.2,66.3,50.2,2926,ohc,4,156,spdi,3.59,3.86,7.0,145,5000,19,24,14489,0,Extremadamente Riesgoso
+86,mitsubishi,montero,gas,std,4,sedan,fwd,front,96.3,172.4,65.4,51.6,2365,ohc,4,122,2bbl,3.35,3.46,8.5,88,5000,25,32,6989,1,Riesgoso
+87,mitsubishi,pajero,gas,std,4,sedan,fwd,front,96.3,172.4,65.4,51.6,2405,ohc,4,122,2bbl,3.35,3.46,8.5,88,5000,25,32,8189,1,Riesgoso
+88,mitsubishi,outlander,gas,turbo,4,sedan,fwd,front,96.3,172.4,65.4,51.6,2403,ohc,4,110,spdi,3.17,3.46,7.5,116,5500,23,30,9279,1,Riesgoso
+89,mitsubishi,mirage,gas,std,4,sedan,fwd,front,96.3,172.4,65.4,51.6,2403,ohc,4,110,spdi,3.17,3.46,7.5,116,5500,23,30,9279,1,Poco Seguro
+90,nissan,versa,gas,std,2,sedan,fwd,front,94.5,165.3,63.8,54.5,1889,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,5499,1,Riesgoso
+91,nissan,gt-r,diesel,std,2,sedan,fwd,front,94.5,165.3,63.8,54.5,2017,ohc,4,103,idi,2.99,3.47,21.9,55,4800,45,50,7099,1,Riesgoso
+92,nissan,rogue,gas,std,2,sedan,fwd,front,94.5,165.3,63.8,54.5,1918,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,6649,1,Riesgoso
+93,nissan,latio,gas,std,4,sedan,fwd,front,94.5,165.3,63.8,54.5,1938,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,6849,1,Riesgoso
+94,nissan,titan,gas,std,4,wagon,fwd,front,94.5,170.2,63.8,53.5,2024,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7349,1,Riesgoso
+95,nissan,leaf,gas,std,2,sedan,fwd,front,94.5,165.3,63.8,54.5,1951,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7299,1,Riesgoso
+96,nissan,juke,gas,std,2,hatchback,fwd,front,94.5,165.6,63.8,53.3,2028,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7799,1,Riesgoso
+97,nissan,latio,gas,std,4,sedan,fwd,front,94.5,165.3,63.8,54.5,1971,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7499,1,Riesgoso
+98,nissan,note,gas,std,4,wagon,fwd,front,94.5,170.2,63.8,53.5,2037,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7999,1,Riesgoso
+99,nissan,clipper,gas,std,2,hardtop,fwd,front,95.1,162.4,63.8,53.3,2008,ohc,4,97,2bbl,3.15,3.29,9.4,69,5200,31,37,8249,1,Muy Riesgoso
+100,nissan,rogue,gas,std,4,hatchback,fwd,front,97.2,173.4,65.2,54.7,2324,ohc,4,120,2bbl,3.33,3.47,8.5,97,5200,27,34,8949,1,Neutral
+101,nissan,nv200,gas,std,4,sedan,fwd,front,97.2,173.4,65.2,54.7,2302,ohc,4,120,2bbl,3.33,3.47,8.5,97,5200,27,34,9549,1,Neutral
+102,nissan,dayz,gas,std,4,sedan,fwd,front,100.4,181.7,66.5,55.1,3095,ohcv,6,181,mpfi,3.43,3.27,9.0,152,5200,17,22,13499,0,Neutral
+103,nissan,fuga,gas,std,4,wagon,fwd,front,100.4,184.6,66.5,56.1,3296,ohcv,6,181,mpfi,3.43,3.27,9.0,152,5200,17,22,14399,0,Neutral
+104,nissan,otti,gas,std,4,sedan,fwd,front,100.4,184.6,66.5,55.1,3060,ohcv,6,181,mpfi,3.43,3.27,9.0,152,5200,19,25,13499,0,Neutral
+105,nissan,teana,gas,std,2,hatchback,rwd,front,91.3,170.7,67.9,49.7,3071,ohcv,6,181,mpfi,3.43,3.27,9.0,160,5200,19,25,17199,0,Extremadamente Riesgoso
+106,nissan,kicks,gas,turbo,2,hatchback,rwd,front,91.3,170.7,67.9,49.7,3139,ohcv,6,181,mpfi,3.43,3.27,7.8,200,5200,17,23,19699,0,Extremadamente Riesgoso
+107,nissan,clipper,gas,std,2,hatchback,rwd,front,99.2,178.5,67.9,49.7,3139,ohcv,6,181,mpfi,3.43,3.27,9.0,160,5200,19,25,18399,0,Riesgoso
+108,peugeot,504,gas,std,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3020,l,4,120,mpfi,3.46,3.19,8.4,97,5000,19,24,11900,0,Neutral
+109,peugeot,304,diesel,turbo,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3197,l,4,152,idi,3.7,3.52,21.0,95,4150,28,33,13200,0,Neutral
+110,peugeot,504 (sw),gas,std,4,wagon,rwd,front,114.2,198.9,68.4,58.7,3230,l,4,120,mpfi,3.46,3.19,8.4,97,5000,19,24,12440,0,Neutral
+111,peugeot,504,diesel,turbo,4,wagon,rwd,front,114.2,198.9,68.4,58.7,3430,l,4,152,idi,3.7,3.52,21.0,95,4150,25,25,13860,0,Neutral
+112,peugeot,504,gas,std,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3075,l,4,120,mpfi,3.46,2.19,8.4,95,5000,19,24,15580,0,Neutral
+113,peugeot,604sl,diesel,turbo,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3252,l,4,152,idi,3.7,3.52,21.0,95,4150,28,33,16900,0,Neutral
+114,peugeot,504,gas,std,4,wagon,rwd,front,114.2,198.9,68.4,56.7,3285,l,4,120,mpfi,3.46,2.19,8.4,95,5000,19,24,16695,0,Neutral
+115,peugeot,505s turbo diesel,diesel,turbo,4,wagon,rwd,front,114.2,198.9,68.4,58.7,3485,l,4,152,idi,3.7,3.52,21.0,95,4150,25,25,17075,0,Neutral
+116,peugeot,504,gas,std,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3075,l,4,120,mpfi,3.46,3.19,8.4,97,5000,19,24,16630,0,Neutral
+117,peugeot,504,diesel,turbo,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3252,l,4,152,idi,3.7,3.52,21.0,95,4150,28,33,17950,0,Neutral
+118,peugeot,604sl,gas,turbo,4,sedan,rwd,front,108.0,186.7,68.3,56.0,3130,l,4,134,mpfi,3.61,3.21,7.0,142,5600,18,24,18150,0,Neutral
+119,plymouth,fury,gas,std,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,1918,ohc,4,90,2bbl,2.97,3.23,9.4,68,5500,37,41,5572,1,Riesgoso
+120,plymouth,cricket,gas,turbo,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,2128,ohc,4,98,spdi,3.03,3.39,7.6,102,5500,24,30,7957,1,Riesgoso
+121,plymouth,fury,gas,std,4,hatchback,fwd,front,93.7,157.3,63.8,50.6,1967,ohc,4,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6229,1,Riesgoso
+122,plymouth,satellite custom (sw),gas,std,4,sedan,fwd,front,93.7,167.3,63.8,50.8,1989,ohc,4,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6692,1,Riesgoso
+123,plymouth,fury,gas,std,4,sedan,fwd,front,93.7,167.3,63.8,50.8,2191,ohc,4,98,2bbl,2.97,3.23,9.4,68,5500,31,38,7609,1,Riesgoso
+124,plymouth,valiant,gas,std,4,wagon,fwd,front,103.3,174.6,64.6,59.8,2535,ohc,4,122,2bbl,3.35,3.46,8.5,88,5000,24,30,8921,1,Poco Seguro
+125,plymouth,duster,gas,turbo,2,hatchback,rwd,front,95.9,173.2,66.3,50.2,2818,ohc,4,156,spdi,3.59,3.86,7.0,145,5000,19,24,12764,0,Extremadamente Riesgoso
+126,porsche,macan,gas,std,2,hatchback,rwd,front,94.5,168.9,68.3,50.2,2778,ohc,4,151,mpfi,3.94,3.11,9.5,143,5500,19,27,22018,0,Extremadamente Riesgoso
+127,porsche,panamera,gas,std,2,hardtop,rwd,rear,89.5,168.9,65.0,51.6,2756,ohcf,6,194,mpfi,3.74,2.9,9.5,207,5900,17,25,32528,0,Extremadamente Riesgoso
+128,porsche,cayenne,gas,std,2,hardtop,rwd,rear,89.5,168.9,65.0,51.6,2756,ohcf,6,194,mpfi,3.74,2.9,9.5,207,5900,17,25,34028,0,Extremadamente Riesgoso
+129,porsche,boxter,gas,std,2,convertible,rwd,rear,89.5,168.9,65.0,51.6,2800,ohcf,6,194,mpfi,3.74,2.9,9.5,207,5900,17,25,37028,0,Extremadamente Riesgoso
+130,porsche,cayenne,gas,std,2,hatchback,rwd,front,98.4,175.7,72.3,50.5,3366,dohcv,8,203,mpfi,3.94,3.11,10.0,288,5750,17,28,31400,0,Riesgoso
+131,renault,12tl,gas,std,4,wagon,fwd,front,96.1,181.5,66.5,55.2,2579,ohc,4,132,mpfi,3.46,3.9,8.7,90,5100,23,31,9295,1,Neutral
+132,renault,5 gtl,gas,std,2,hatchback,fwd,front,96.1,176.8,66.6,50.5,2460,ohc,4,132,mpfi,3.46,3.9,8.7,90,5100,23,31,9895,1,Muy Riesgoso
+133,saab,99,gas,std,2,hatchback,fwd,front,99.1,186.6,66.5,56.1,2658,ohc,4,121,mpfi,3.54,3.07,9.31,110,5250,21,28,11850,0,Extremadamente Riesgoso
+134,saab,99,gas,std,4,sedan,fwd,front,99.1,186.6,66.5,56.1,2695,ohc,4,121,mpfi,3.54,3.07,9.3,110,5250,21,28,12170,0,Muy Riesgoso
+135,saab,99,gas,std,2,hatchback,fwd,front,99.1,186.6,66.5,56.1,2707,ohc,4,121,mpfi,2.54,2.07,9.3,110,5250,21,28,15040,0,Extremadamente Riesgoso
+136,saab,99,gas,std,4,sedan,fwd,front,99.1,186.6,66.5,56.1,2758,ohc,4,121,mpfi,3.54,3.07,9.3,110,5250,21,28,15510,0,Muy Riesgoso
+137,saab,99,gas,turbo,2,hatchback,fwd,front,99.1,186.6,66.5,56.1,2808,dohc,4,121,mpfi,3.54,3.07,9.0,160,5500,19,26,18150,0,Extremadamente Riesgoso
+138,saab,99,gas,turbo,4,sedan,fwd,front,99.1,186.6,66.5,56.1,2847,dohc,4,121,mpfi,3.54,3.07,9.0,160,5500,19,26,18620,0,Muy Riesgoso
+139,subaru,None,gas,std,2,hatchback,fwd,front,93.7,156.9,63.4,53.7,2050,ohcf,4,97,2bbl,3.62,2.36,9.0,69,4900,31,36,5118,1,Muy Riesgoso
+140,subaru,dl,gas,std,2,hatchback,fwd,front,93.7,157.9,63.6,53.7,2120,ohcf,4,108,2bbl,3.62,2.64,8.7,73,4400,26,31,7053,1,Muy Riesgoso
+141,subaru,dl,gas,std,2,hatchback,4wd,front,93.3,157.3,63.8,55.7,2240,ohcf,4,108,2bbl,3.62,2.64,8.7,73,4400,26,31,7603,1,Muy Riesgoso
+142,subaru,None,gas,std,4,sedan,fwd,front,97.2,172.0,65.4,52.5,2145,ohcf,4,108,2bbl,3.62,2.64,9.5,82,4800,32,37,7126,1,Neutral
+143,subaru,brz,gas,std,4,sedan,fwd,front,97.2,172.0,65.4,52.5,2190,ohcf,4,108,2bbl,3.62,2.64,9.5,82,4400,28,33,7775,1,Neutral
+144,subaru,baja,gas,std,4,sedan,fwd,front,97.2,172.0,65.4,52.5,2340,ohcf,4,108,mpfi,3.62,2.64,9.0,94,5200,26,32,9960,1,Neutral
+145,subaru,r1,gas,std,4,sedan,4wd,front,97.0,172.0,65.4,54.3,2385,ohcf,4,108,2bbl,3.62,2.64,9.0,82,4800,24,25,9233,1,Neutral
+146,subaru,r2,gas,turbo,4,sedan,4wd,front,97.0,172.0,65.4,54.3,2510,ohcf,4,108,mpfi,3.62,2.64,7.7,111,4800,24,29,11259,0,Neutral
+147,subaru,trezia,gas,std,4,wagon,fwd,front,97.0,173.5,65.4,53.0,2290,ohcf,4,108,2bbl,3.62,2.64,9.0,82,4800,28,32,7463,1,Neutral
+148,subaru,tribeca,gas,std,4,wagon,fwd,front,97.0,173.5,65.4,53.0,2455,ohcf,4,108,mpfi,3.62,2.64,9.0,94,5200,25,31,10198,1,Neutral
+149,subaru,dl,gas,std,4,wagon,4wd,front,96.9,173.6,65.4,54.9,2420,ohcf,4,108,2bbl,3.62,2.64,9.0,82,4800,23,29,8013,1,Neutral
+150,subaru,dl,gas,turbo,4,wagon,4wd,front,96.9,173.6,65.4,54.9,2650,ohcf,4,108,mpfi,3.62,2.64,7.7,111,4800,23,23,11694,0,Neutral
+151,toyota,cressida,gas,std,2,hatchback,fwd,front,95.7,158.7,63.6,54.5,1985,ohc,4,92,2bbl,3.05,3.03,9.0,62,4800,35,39,5348,1,Riesgoso
+152,toyota,cressida,gas,std,2,hatchback,fwd,front,95.7,158.7,63.6,54.5,2040,ohc,4,92,2bbl,3.05,3.03,9.0,62,4800,31,38,6338,1,Riesgoso
+153,toyota,corolla,gas,std,4,hatchback,fwd,front,95.7,158.7,63.6,54.5,2015,ohc,4,92,2bbl,3.05,3.03,9.0,62,4800,31,38,6488,1,Riesgoso
+154,toyota,cressida,gas,std,4,wagon,fwd,front,95.7,169.7,63.6,59.1,2280,ohc,4,92,2bbl,3.05,3.03,9.0,62,4800,31,37,6918,1,Neutral
+155,toyota,corolla,gas,std,4,wagon,4wd,front,95.7,169.7,63.6,59.1,2290,ohc,4,92,2bbl,3.05,3.03,9.0,62,4800,27,32,7898,1,Neutral
+156,toyota,carina,gas,std,4,wagon,4wd,front,95.7,169.7,63.6,59.1,3110,ohc,4,92,2bbl,3.05,3.03,9.0,62,4800,27,32,8778,1,Neutral
+157,toyota,cressida,gas,std,4,sedan,fwd,front,95.7,166.3,64.4,53.0,2081,ohc,4,98,2bbl,3.19,3.03,9.0,70,4800,30,37,6938,1,Neutral
+158,toyota,corolla,gas,std,4,hatchback,fwd,front,95.7,166.3,64.4,52.8,2109,ohc,4,98,2bbl,3.19,3.03,9.0,70,4800,30,37,7198,1,Neutral
+159,toyota,cressida,diesel,std,4,sedan,fwd,front,95.7,166.3,64.4,53.0,2275,ohc,4,110,idi,3.27,3.35,22.5,56,4500,34,36,7898,1,Neutral
+160,toyota,corolla,diesel,std,4,hatchback,fwd,front,95.7,166.3,64.4,52.8,2275,ohc,4,110,idi,3.27,3.35,22.5,56,4500,38,47,7788,1,Neutral
+161,toyota,cressida,gas,std,4,sedan,fwd,front,95.7,166.3,64.4,53.0,2094,ohc,4,98,2bbl,3.19,3.03,9.0,70,4800,38,47,7738,1,Neutral
+162,toyota,corolla,gas,std,4,hatchback,fwd,front,95.7,166.3,64.4,52.8,2122,ohc,4,98,2bbl,3.19,3.03,9.0,70,4800,28,34,8358,1,Neutral
+163,toyota,cressida,gas,std,4,sedan,fwd,front,95.7,166.3,64.4,52.8,2140,ohc,4,98,2bbl,3.19,3.03,9.0,70,4800,28,34,9258,1,Neutral
+164,toyota,corolla,gas,std,2,sedan,rwd,front,94.5,168.7,64.0,52.6,2169,ohc,4,98,2bbl,3.19,3.03,9.0,70,4800,29,34,8058,1,Riesgoso
+165,toyota,cressida,gas,std,2,hatchback,rwd,front,94.5,168.7,64.0,52.6,2204,ohc,4,98,2bbl,3.19,3.03,9.0,70,4800,29,34,8238,1,Riesgoso
+166,toyota,celica,gas,std,2,sedan,rwd,front,94.5,168.7,64.0,52.6,2265,dohc,4,98,mpfi,3.24,3.08,9.4,112,6600,26,29,9298,1,Riesgoso
+167,toyota,corolla,gas,std,2,hatchback,rwd,front,94.5,168.7,64.0,52.6,2300,dohc,4,98,mpfi,3.24,3.08,9.4,112,6600,26,29,9538,1,Riesgoso
+168,toyota,cressida,gas,std,2,hardtop,rwd,front,98.4,176.2,65.6,52.0,2540,ohc,4,146,mpfi,3.62,3.5,9.3,116,4800,24,30,8449,1,Muy Riesgoso
+169,toyota,corolla,gas,std,2,hardtop,rwd,front,98.4,176.2,65.6,52.0,2536,ohc,4,146,mpfi,3.62,3.5,9.3,116,4800,24,30,9639,1,Muy Riesgoso
+170,toyota,starlet,gas,std,2,hatchback,rwd,front,98.4,176.2,65.6,52.0,2551,ohc,4,146,mpfi,3.62,3.5,9.3,116,4800,24,30,9989,1,Muy Riesgoso
+171,toyota,tercel,gas,std,2,hardtop,rwd,front,98.4,176.2,65.6,52.0,2679,ohc,4,146,mpfi,3.62,3.5,9.3,116,4800,24,30,11199,0,Muy Riesgoso
+172,toyota,corolla,gas,std,2,hatchback,rwd,front,98.4,176.2,65.6,52.0,2714,ohc,4,146,mpfi,3.62,3.5,9.3,116,4800,24,30,11549,0,Muy Riesgoso
+173,toyota,cressida,gas,std,2,convertible,rwd,front,98.4,176.2,65.6,53.0,2975,ohc,4,146,mpfi,3.62,3.5,9.3,116,4800,24,30,17669,0,Muy Riesgoso
+174,toyota,corolla,gas,std,4,sedan,fwd,front,102.4,175.6,66.5,54.9,2326,ohc,4,122,mpfi,3.31,3.54,8.7,92,4200,29,34,8948,1,Poco Seguro
+175,toyota,celica,diesel,turbo,4,sedan,fwd,front,102.4,175.6,66.5,54.9,2480,ohc,4,110,idi,3.27,3.35,22.5,73,4500,30,33,10698,0,Poco Seguro
+176,toyota,cressida,gas,std,4,hatchback,fwd,front,102.4,175.6,66.5,53.9,2414,ohc,4,122,mpfi,3.31,3.54,8.7,92,4200,27,32,9988,1,Poco Seguro
+177,toyota,corolla,gas,std,4,sedan,fwd,front,102.4,175.6,66.5,54.9,2414,ohc,4,122,mpfi,3.31,3.54,8.7,92,4200,27,32,10898,0,Poco Seguro
+178,toyota,cressida,gas,std,4,hatchback,fwd,front,102.4,175.6,66.5,53.9,2458,ohc,4,122,mpfi,3.31,3.54,8.7,92,4200,27,32,11248,0,Poco Seguro
+179,toyota,corolla,gas,std,2,hatchback,rwd,front,102.9,183.5,67.7,52.0,2976,dohc,6,171,mpfi,3.27,3.35,9.3,161,5200,20,24,16558,0,Extremadamente Riesgoso
+180,toyota,cressida,gas,std,2,hatchback,rwd,front,102.9,183.5,67.7,52.0,3016,dohc,6,171,mpfi,3.27,3.35,9.3,161,5200,19,24,15998,0,Extremadamente Riesgoso
+181,toyota,starlet,gas,std,4,sedan,rwd,front,104.5,187.8,66.5,54.1,3131,dohc,6,171,mpfi,3.27,3.35,9.2,156,5200,20,24,15690,0,Poco Seguro
+182,toyota,tercel,gas,std,4,wagon,rwd,front,104.5,187.8,66.5,54.1,3151,dohc,6,161,mpfi,3.27,3.35,9.2,156,5200,19,24,15750,0,Poco Seguro
+183,volkswagen,rabbit,diesel,std,2,sedan,fwd,front,97.3,171.7,65.5,55.7,2261,ohc,4,97,idi,3.01,3.4,23.0,52,4800,37,46,7775,1,Muy Riesgoso
+184,volkswagen,1131 deluxe sedan,gas,std,2,sedan,fwd,front,97.3,171.7,65.5,55.7,2209,ohc,4,109,mpfi,3.19,3.4,9.0,85,5250,27,34,7975,1,Muy Riesgoso
+185,volkswagen,model 111,diesel,std,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2264,ohc,4,97,idi,3.01,3.4,23.0,52,4800,37,46,7995,1,Muy Riesgoso
+186,volkswagen,type 3,gas,std,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2212,ohc,4,109,mpfi,3.19,3.4,9.0,85,5250,27,34,8195,1,Muy Riesgoso
+187,volkswagen,411 (sw),gas,std,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2275,ohc,4,109,mpfi,3.19,3.4,9.0,85,5250,27,34,8495,1,Muy Riesgoso
+188,volkswagen,super beetle,diesel,turbo,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2319,ohc,4,97,idi,3.01,3.4,23.0,68,4500,37,42,9495,1,Muy Riesgoso
+189,volkswagen,dasher,gas,std,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2300,ohc,4,109,mpfi,3.19,3.4,10.0,100,5500,26,32,9995,1,Muy Riesgoso
+190,volkswagen,dasher,gas,std,2,convertible,fwd,front,94.5,159.3,64.2,55.6,2254,ohc,4,109,mpfi,3.19,3.4,8.5,90,5500,24,29,11595,0,Extremadamente Riesgoso
+191,volkswagen,rabbit,gas,std,2,hatchback,fwd,front,94.5,165.7,64.0,51.4,2221,ohc,4,109,mpfi,3.19,3.4,8.5,90,5500,24,29,9980,1,Extremadamente Riesgoso
+192,volkswagen,rabbit,gas,std,4,sedan,fwd,front,100.4,180.2,66.9,55.1,2661,ohc,5,136,mpfi,3.19,3.4,8.5,110,5500,19,24,13295,0,Neutral
+193,volkswagen,rabbit,diesel,turbo,4,sedan,fwd,front,100.4,180.2,66.9,55.1,2579,ohc,4,97,idi,3.01,3.4,23.0,68,4500,33,38,13845,0,Neutral
+194,volkswagen,dasher,gas,std,4,wagon,fwd,front,100.4,183.1,66.9,55.1,2563,ohc,4,109,mpfi,3.19,3.4,9.0,88,5500,25,31,12290,0,Neutral
+195,volvo,145e (sw),gas,std,4,sedan,rwd,front,104.3,188.8,67.2,56.2,2912,ohc,4,141,mpfi,3.78,3.15,9.5,114,5400,23,28,12940,0,Seguro
+196,volvo,144ea,gas,std,4,wagon,rwd,front,104.3,188.8,67.2,57.5,3034,ohc,4,141,mpfi,3.78,3.15,9.5,114,5400,23,28,13415,0,Poco Seguro
+197,volvo,244dl,gas,std,4,sedan,rwd,front,104.3,188.8,67.2,56.2,2935,ohc,4,141,mpfi,3.78,3.15,9.5,114,5400,24,28,15985,0,Seguro
+198,volvo,245,gas,std,4,wagon,rwd,front,104.3,188.8,67.2,57.5,3042,ohc,4,141,mpfi,3.78,3.15,9.5,114,5400,24,28,16515,0,Poco Seguro
+199,volvo,264gl,gas,turbo,4,sedan,rwd,front,104.3,188.8,67.2,56.2,3045,ohc,4,130,mpfi,3.62,3.15,7.5,162,5100,17,22,18420,0,Seguro
+200,volvo,diesel,gas,turbo,4,wagon,rwd,front,104.3,188.8,67.2,57.5,3157,ohc,4,130,mpfi,3.62,3.15,7.5,162,5100,17,22,18950,0,Poco Seguro
+201,volvo,145e (sw),gas,std,4,sedan,rwd,front,109.1,188.8,68.9,55.5,2952,ohc,4,141,mpfi,3.78,3.15,9.5,114,5400,23,28,16845,0,Poco Seguro
+202,volvo,144ea,gas,turbo,4,sedan,rwd,front,109.1,188.8,68.8,55.5,3049,ohc,4,141,mpfi,3.78,3.15,8.7,160,5300,19,25,19045,0,Poco Seguro
+203,volvo,244dl,gas,std,4,sedan,rwd,front,109.1,188.8,68.9,55.5,3012,ohcv,6,173,mpfi,3.58,2.87,8.8,134,5500,18,23,21485,0,Poco Seguro
+204,volvo,246,diesel,turbo,4,sedan,rwd,front,109.1,188.8,68.9,55.5,3217,ohc,6,145,idi,3.01,3.4,23.0,106,4800,26,27,22470,0,Poco Seguro
+205,volvo,264gl,gas,turbo,4,sedan,rwd,front,109.1,188.8,68.9,55.5,3062,ohc,4,141,mpfi,3.78,3.15,9.5,114,5400,19,25,22625,0,Poco Seguro

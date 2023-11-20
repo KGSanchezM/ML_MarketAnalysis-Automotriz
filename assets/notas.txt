@@ -1,0 +1,30 @@
+Estas son algunas páginas web que estuvimos consultando durante el desarrollo de nuestro proyecto.
+
+https://helloauto.com/glosario
+
+https://www.kaggle.com/code/micheldc55/tutorial-eda-para-data-science
+
+https://scikit-learn.org/stable/auto_examples/feature_selection/plot_select_from_model_diabetes.html
+
+https://carnovo.com/es/guias/marcas-de-coches/
+
+https://www.kaggle.com/code/javierrequena23/used-cars-eda
+
+https://www.kaggle.com/code/shaednoor/car-price-prediction-using-top-10-ml-algorithms
+
+https://www.eleconomista.es/ecomotor/marcas/
+  
+https://es.wikipedia.org/wiki/Mercury_(autom%C3%B3viles)#:~:text=Mercury%20fue%20una%20marca%20de,%2C%20M%C3%A9xico%2C%20Argentina%20y%20Brasil. 
+  Mercury fue una marca de automóviles de lujo, división del fabricante estadounidense Ford Motor Company, hasta su cierre en enero de 2011 al ser considerada insolvente.
+
+https://es.wikipedia.org/wiki/Audi
+https://es.wikipedia.org/wiki/Audi_100
+  En 1994, el 100 fue renombrado a Audi A6
+
+https://en.wikipedia.org/wiki/Audi_80
+  El Audi 80 comenzó su producción europea en mayo de 1972, llegando el año siguiente a Estados Unidos y Australia bajo el nombre de Audi Fox.
+
+https://en.wikipedia.org/wiki/Toyota_Mark_II
+  Also called: Toyopet Corona Mark II (1968–1980) / Toyota Corona Mark II (1968–1976) / Toyota Cressida (1976–1992)
+
+https://es.wikipedia.org/wiki/Categor%C3%ADa:Modelos_de_Dodge
